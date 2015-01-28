@@ -1,3 +1,3 @@
-#Lab3 Using GitHub
+#Lab3: Using GitHub
 
 ##Name: Michelle Bray
